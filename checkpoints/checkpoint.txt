@@ -1,3 +1,3 @@
-Download the checkpoints from below link and put in the checkpoints Directory
+Download the checkpoints from below link and put those checkpoints in the checkpoints directory
 
 https://drive.google.com/drive/folders/1fdQVKbYXXpc4icS4GvuJJCY92T7ejmag?usp=sharing
