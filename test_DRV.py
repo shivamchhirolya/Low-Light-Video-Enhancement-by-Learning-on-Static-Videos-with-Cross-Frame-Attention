@@ -536,7 +536,7 @@ class Multiscale_ENC(nn.Module):
 
 
 
-device = torch.device('cuda:0') if torch.cuda.is_available() else torch.device('cpu')
+device = torch.device('cuda:1') if torch.cuda.is_available() else torch.device('cpu')
 
 
 model  = torch.load('checkpoints/DRV_901.pth')
