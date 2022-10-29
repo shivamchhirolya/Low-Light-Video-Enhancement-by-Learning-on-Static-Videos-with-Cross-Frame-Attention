@@ -1,5 +1,7 @@
 # Low-Light-Video-Enhancement-by-Learning-on-Static-Videos-with-Cross-Frame-Attention
 
+This is a pythorch implementation of “Low-Light-Video-Enhancement-by-Learning-on-Static-Videos-with-Cross-Frame-Attention” in BMVC 2022, by Shivam Chhirolya, Sameer Malik, and Rajiv Soundararajan.
+
 
 # Requirements
 
