@@ -18,7 +18,7 @@ skimage
 
 
 # Checkpoints
-please download the checkpoints from below link and put those checkpoints in checkpoints directory
+Please download the checkpoints from below link and put those checkpoints in checkpoints directory
 
 https://drive.google.com/drive/folders/1fdQVKbYXXpc4icS4GvuJJCY92T7ejmag?usp=sharing
 
