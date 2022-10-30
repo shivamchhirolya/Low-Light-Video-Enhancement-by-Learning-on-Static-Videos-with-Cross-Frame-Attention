@@ -25,11 +25,12 @@ https://drive.google.com/drive/folders/1fdQVKbYXXpc4icS4GvuJJCY92T7ejmag?usp=sha
 # Usage
 
 #### Testing ####
-
-
+1. To test our model on DAVIS dataset run " test_DAVIS.py "
+2. To test our model on DRV RGB dataset run " test_DRV.py "
 
 #### Training ####
-
+1. To train our model on DAVIS dataset run " train_DAVIS.py "
+2. To train our model on DRV RGB dataset run " train_DRV.py "
 
 
 #### Model ####
