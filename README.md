@@ -33,7 +33,7 @@ https://drive.google.com/drive/folders/1fdQVKbYXXpc4icS4GvuJJCY92T7ejmag?usp=sha
 2. To train our model on DRV RGB dataset run " train_DRV.py "
 
 
-#### Model ####
+# Model #
 
 1. Davis_901.pth (This model is trained using synthetic low light Davis dataset)
 2. DRV_901.pth   (This model is trained using RGB form of DRV dataset)
