@@ -26,11 +26,10 @@ https://drive.google.com/drive/folders/1fdQVKbYXXpc4icS4GvuJJCY92T7ejmag?usp=sha
 
 #### Testing ####
 
-To tes
+
 
 #### Training ####
 
-To 
 
 
 #### Model ####
